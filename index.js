@@ -35,14 +35,14 @@ const {
 } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 import yargs from 'yargs';
-say(`BOT`, {
+say(`BOTSTYLEE`, {
 	font: 'shade',
 	align: 'center',
 	gradient: ['#12c2e9', '#c471ed'],
 	transitionGradient: true,
 	letterSpacing: 3,
 });
-say(`'BOT' Coded By RGA`, {
+say(`'BOTSTYLEE' Coded By BENNIISMAIL`, {
 	font: 'console',
 	align: 'center',
 	gradient: ['#DCE35B', '#45B649'],
