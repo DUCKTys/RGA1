@@ -1,0 +1,3423 @@
+{
+  "chats": {
+    "62882006817995@s.whatsapp.net": {
+      "id": "62882006817995@s.whatsapp.net",
+      "conversationTimestamp": 1665675920,
+      "unreadCount": 1,
+      "name": "Bot Update",
+      "imgUrl": "changed",
+      "isContact": true
+    },
+    "62895368900456@s.whatsapp.net": {
+      "id": "62895368900456@s.whatsapp.net",
+      "conversationTimestamp": 1665677070
+    },
+    "6285645868974-1632284252@g.us": {
+      "id": "6285645868974-1632284252@g.us",
+      "isContact": true,
+      "presences": {
+        "6285719806370@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      },
+      "conversationTimestamp": 1665677975,
+      "unreadCount": 12,
+      "subject": "ᴍᴇᴍᴇ ᴜɴɪᴠᴇʀsᴇ",
+      "lastfetch": 1665677954935,
+      "metadata": {
+        "id": "6285645868974-1632284252@g.us",
+        "subject": "ᴍᴇᴍᴇ ᴜɴɪᴠᴇʀsᴇ",
+        "subjectOwner": "62895415133939@s.whatsapp.net",
+        "subjectTime": 1640054326,
+        "size": 64,
+        "creation": 1632284252,
+        "owner": "6285645868974@s.whatsapp.net",
+        "desc": {
+          "type": "Buffer",
+          "data": [
+            226,
+            149,
+            173,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            136,
+            32,
+            10,
+            226,
+            148,
+            130,
+            32,
+            95,
+            42,
+            227,
+            128,
+            140,
+            32,
+            83,
+            101,
+            108,
+            97,
+            109,
+            97,
+            116,
+            32,
+            68,
+            97,
+            116,
+            97,
+            110,
+            103,
+            32,
+            68,
+            105,
+            32,
+            77,
+            69,
+            77,
+            69,
+            32,
+            85,
+            78,
+            73,
+            86,
+            69,
+            82,
+            83,
+            69,
+            227,
+            128,
+            141,
+            42,
+            95,
+            10,
+            10,
+            226,
+            148,
+            128,
+            226,
+            148,
+            136,
+            226,
+            138,
+            177,
+            32,
+            42,
+            73,
+            110,
+            102,
+            111,
+            32,
+            71,
+            114,
+            117,
+            112,
+            42,
+            10,
+            10,
+            226,
+            148,
+            140,
+            226,
+            148,
+            164,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            107,
+            105,
+            114,
+            105,
+            109,
+            32,
+            121,
+            97,
+            110,
+            103,
+            32,
+            98,
+            101,
+            114,
+            98,
+            97,
+            117,
+            32,
+            49,
+            56,
+            43,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            114,
+            97,
+            115,
+            105,
+            115,
+            32,
+            100,
+            97,
+            110,
+            32,
+            115,
+            97,
+            114,
+            97,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            107,
+            105,
+            114,
+            105,
+            109,
+            32,
+            118,
+            105,
+            114,
+            117,
+            115,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            107,
+            105,
+            114,
+            105,
+            109,
+            32,
+            103,
+            111,
+            114,
+            101,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            115,
+            104,
+            97,
+            114,
+            101,
+            32,
+            108,
+            105,
+            110,
+            107,
+            32,
+            103,
+            99,
+            32,
+            108,
+            97,
+            105,
+            110,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            112,
+            107,
+            101,
+            32,
+            107,
+            97,
+            116,
+            97,
+            32,
+            39,
+            97,
+            121,
+            121,
+            39,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            97,
+            100,
+            109,
+            105,
+            110,
+            32,
+            115,
+            101,
+            108,
+            97,
+            108,
+            117,
+            32,
+            98,
+            101,
+            110,
+            97,
+            114,
+            33,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            57,
+            57,
+            37,
+            32,
+            110,
+            103,
+            101,
+            98,
+            97,
+            99,
+            111,
+            116,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            49,
+            37,
+            32,
+            115,
+            104,
+            97,
+            114,
+            101,
+            32,
+            109,
+            101,
+            109,
+            101,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            103,
+            111,
+            115,
+            97,
+            104,
+            32,
+            99,
+            97,
+            112,
+            101,
+            114,
+            44,
+            103,
+            111,
+            115,
+            97,
+            104,
+            32,
+            97,
+            108,
+            97,
+            121,
+            33,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            109,
+            101,
+            108,
+            97,
+            110,
+            103,
+            103,
+            97,
+            114,
+            32,
+            97,
+            117,
+            116,
+            111,
+            32,
+            107,
+            105,
+            99,
+            107,
+            10,
+            226,
+            148,
+            130,
+            226,
+            148,
+            130,
+            226,
+            151,
+            166,
+            226,
+            158,
+            155,
+            32,
+            106,
+            103,
+            110,
+            32,
+            97,
+            110,
+            117,
+            32,
+            104,
+            116,
+            116,
+            112,
+            115,
+            58,
+            47,
+            47,
+            99,
+            104,
+            97,
+            116,
+            46,
+            119,
+            104,
+            97,
+            116,
+            115,
+            97,
+            112,
+            112,
+            46,
+            99,
+            111,
+            109,
+            47,
+            73,
+            52,
+            56,
+            117,
+            114,
+            102,
+            81,
+            119,
+            54,
+            104,
+            53,
+            65,
+            53,
+            88,
+            122,
+            52,
+            122,
+            88,
+            66,
+            70,
+            98,
+            86,
+            10,
+            226,
+            148,
+            130,
+            226,
+            149,
+            176,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            136,
+            32,
+            226,
+            179,
+            185,
+            10,
+            10,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            32,
+            226,
+            148,
+            136,
+            32,
+            95,
+            42,
+            66,
+            105,
+            108,
+            97,
+            32,
+            97,
+            100,
+            97,
+            32,
+            97,
+            116,
+            117,
+            114,
+            97,
+            110,
+            32,
+            121,
+            103,
+            32,
+            100,
+            105,
+            32,
+            108,
+            97,
+            110,
+            103,
+            103,
+            97,
+            114,
+            32,
+            109,
+            97,
+            107,
+            97,
+            32,
+            102,
+            105,
+            116,
+            117,
+            114,
+            32,
+            107,
+            105,
+            99,
+            107,
+            32,
+            97,
+            107,
+            97,
+            110,
+            32,
+            98,
+            101,
+            114,
+            97,
+            107,
+            115,
+            105,
+            42,
+            95,
+            226,
+            148,
+            136,
+            32,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129,
+            226,
+            148,
+            129
+          ]
+        },
+        "descId": "C4DF034F1C5E99C0252D44AAF0C3108E",
+        "restrict": true,
+        "announce": false,
+        "participants": [
+          {
+            "id": "62895350110905@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289506400107@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895630243740@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282130879181@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283816188102@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285704041733@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283140263803@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6281370859260@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282139874474@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285603363009@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62887435275055@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281359053674@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283169640875@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285966103574@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285783975754@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895331257180@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285247201857@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "628121839660@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6287713434642@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285719806370@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "628977868291@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895415133939@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "6285727881618@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6287819462739@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281276232796@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281256496938@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289531843688@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285733174555@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285656006040@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283114886389@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285893119442@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288286737113@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281213192438@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62895629488188@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282253619080@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285260525878@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281329929358@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281387619954@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62881025738823@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285782501263@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285722188600@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282120741970@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62882006817995@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285730664121@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281219678341@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282189129780@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "62859106766298@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285878616335@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282269948121@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283820691465@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282382998804@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289618678880@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288980792933@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282333912296@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285866057598@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6283115815489@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6282268948303@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6288290078095@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285779552473@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "628988825442@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6281357704471@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6285645868974@s.whatsapp.net",
+            "admin": "admin"
+          },
+          {
+            "id": "62881026602109@s.whatsapp.net",
+            "admin": null
+          },
+          {
+            "id": "6289669028571@s.whatsapp.net",
+            "admin": null
+          }
+        ]
+      }
+    },
+    "6288290078095@s.whatsapp.net": {
+      "id": "6288290078095@s.whatsapp.net",
+      "notify": "Inisial i",
+      "isContact": true
+    },
+    "6281359053674@s.whatsapp.net": {
+      "id": "6281359053674@s.whatsapp.net",
+      "isContact": true,
+      "presences": {
+        "6281359053674@s.whatsapp.net": {
+          "lastKnownPresence": "composing"
+        }
+      },
+      "conversationTimestamp": 1665677821,
+      "unreadCount": 11,
+      "notify": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+    },
+    "6285719806370@s.whatsapp.net": {
+      "id": "6285719806370@s.whatsapp.net",
+      "notify": "ヅ",
+      "isContact": true
+    },
+    "6283140263803@s.whatsapp.net": {
+      "id": "6283140263803@s.whatsapp.net",
+      "notify": "Ast.",
+      "isContact": true
+    },
+    "status@broadcast": {
+      "id": "status@broadcast",
+      "conversationTimestamp": 1665677817,
+      "unreadCount": 2
+    },
+    "6287739720909@s.whatsapp.net": {
+      "id": "6287739720909@s.whatsapp.net",
+      "notify": "Y",
+      "isContact": true
+    }
+  },
+  "messages": {
+    "62882006817995@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "D31F59B7CB42682C0EAE3949032CBAC9"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "INITIAL_SECURITY_NOTIFICATION_SETTING_SYNC",
+            "initialSecurityNotificationSettingSync": {
+              "securityNotificationEnabled": false
+            }
+          }
+        },
+        "messageTimestamp": "1665675920",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "2175C72F38FEE4356B4467329B477759"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "APP_STATE_SYNC_KEY_SHARE",
+            "appStateSyncKeyShare": {
+              "keys": [
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACF"
+                  },
+                  "keyData": {
+                    "keyData": "p1oqT9qCsk07s/1trSb7isolWgsrHevL48NRfL6DRF8=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 9,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        8,
+                        9
+                      ]
+                    },
+                    "timestamp": "1661632006341"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACG"
+                  },
+                  "keyData": {
+                    "keyData": "hh+wWEe/mRuMUyvzS+7F/nz7HKyb5kwuVJzXVu8vA2c=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 10,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        8,
+                        10
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACD"
+                  },
+                  "keyData": {
+                    "keyData": "Wn0G12/VGEnHvfbNwu3FDuYKo+qrrb4098DaiV9mPA0=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 5,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACB"
+                  },
+                  "keyData": {
+                    "keyData": "pchkyg/8DS083PsCRL2dCUZ/sAz7NZ7KNccb8WVPZdw=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 5,
+                      "deviceIndexes": [
+                        0,
+                        1,
+                        2,
+                        5
+                      ]
+                    },
+                    "timestamp": "1661513862908"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACC"
+                  },
+                  "keyData": {
+                    "keyData": "2k7KxjZd9OVGBGQYCS50uCtpwYOKPjgL44OV/xZKrFA=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 5,
+                      "deviceIndexes": [
+                        0,
+                        1,
+                        5
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACN"
+                  },
+                  "keyData": {
+                    "keyData": "cCeaYtOFYEFaztOI/niKN0pRjbv1wJ57+BhdtJXkGiM=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 18,
+                      "deviceIndexes": [
+                        0,
+                        18,
+                        7,
+                        13,
+                        14
+                      ]
+                    },
+                    "timestamp": "1662898160534"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACO"
+                  },
+                  "keyData": {
+                    "keyData": "9mJ+RcaIBaxuEncnX0VYE7/YnCjU5zWP612zHabP43Q=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 18,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        13,
+                        14
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACL"
+                  },
+                  "keyData": {
+                    "keyData": "1Lvrb57uRamZ+kabbCKvi2cu83fggE5gjGNy1T5AlM8=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 16,
+                      "deviceIndexes": [
+                        16,
+                        0,
+                        7,
+                        13,
+                        14
+                      ]
+                    },
+                    "timestamp": "1662048132825"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACM"
+                  },
+                  "keyData": {
+                    "keyData": "UP8L9I0Tvu3J0RXjyao9nxnlJW4sUg/gUXvExsQxLto=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 16,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        13,
+                        14
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACJ"
+                  },
+                  "keyData": {
+                    "keyData": "XU69M80L5G2+QGdCvKxN5pwGdRrt3BnfgGHhPyMjVE0=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 13,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        8,
+                        13
+                      ]
+                    },
+                    "timestamp": "1661708834338"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACK"
+                  },
+                  "keyData": {
+                    "keyData": "oSLvPptVgSa2Zbj5D3wHWMQLQfeo0Xusj1BKYtc4FLA=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 13,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        13
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACH"
+                  },
+                  "keyData": {
+                    "keyData": "E1jeG2IbOOi/iMqA34NGBoqLzzbdwftbzjnSHvnMBJg=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 12,
+                      "deviceIndexes": [
+                        0,
+                        7,
+                        8,
+                        11,
+                        12
+                      ]
+                    },
+                    "timestamp": "1661708507836"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACV"
+                  },
+                  "keyData": {
+                    "keyData": "2lljH6FNd8r2Bp/6t2EDey2H0igBTFcFBDOsGixEPZo=",
+                    "fingerprint": {
+                      "rawId": 1735643611,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1665578227001"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACT"
+                  },
+                  "keyData": {
+                    "keyData": "L+qATIIOxgqRMUFkAk0fqmOpM1lEQ/aRsF7nGszReNo=",
+                    "fingerprint": {
+                      "rawId": 1735643610,
+                      "currentIndex": 1,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACU"
+                  },
+                  "keyData": {
+                    "keyData": "WTGsNvZlAhzjb89+zh/rmsB8l0IZKi/z/xCTgIv06g0=",
+                    "fingerprint": {
+                      "rawId": 1735643610,
+                      "currentIndex": 2,
+                      "deviceIndexes": [
+                        0,
+                        1
+                      ]
+                    },
+                    "timestamp": "1665573149064"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACR"
+                  },
+                  "keyData": {
+                    "keyData": "nKjivzjtdCJReu8k4e0L8vwxt7CmGU5VGfq0dvhhNlM=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 21,
+                      "deviceIndexes": [
+                        0,
+                        21
+                      ]
+                    },
+                    "timestamp": "1665505664969"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACS"
+                  },
+                  "keyData": {
+                    "keyData": "yxJu+0YYKfrga2y8E/jtjzTTYhS3/7SKBc5xVJiKz4Y=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 21,
+                      "deviceIndexes": [
+                        0
+                      ]
+                    },
+                    "timestamp": "1665506641443"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACP"
+                  },
+                  "keyData": {
+                    "keyData": "D0ZKClWbQ3waDbRwGJGJMXNbscAZ3xv/LByUYupSfbc=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 21,
+                      "deviceIndexes": [
+                        0,
+                        21,
+                        7,
+                        13,
+                        14
+                      ]
+                    },
+                    "timestamp": "1663163163019"
+                  }
+                },
+                {
+                  "keyId": {
+                    "keyId": "AAAAAACQ"
+                  },
+                  "keyData": {
+                    "keyData": "z0qsXSBGsmGv089OAFjJWeLnakUnqRI1gbavOl0zTZo=",
+                    "fingerprint": {
+                      "rawId": 1735643609,
+                      "currentIndex": 21,
+                      "deviceIndexes": [
+                        0,
+                        21,
+                        14
+                      ]
+                    },
+                    "timestamp": "0"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "messageTimestamp": "1665675920",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "2BEAC1EB3FADD1F24688E53C183317E7"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "bbAgVYlqIAFMSL+ysbouGXKDJhsQGHN9uqM6x3ZZBvs=",
+              "fileLength": "536",
+              "mediaKey": "ZXD3JGskmx7NWO//59VyXmaKygCbYaxI2Jl2jax/IA0=",
+              "fileEncSha256": "+k72C+NsFkrcrn79iq8/5mVo1BHYQb1u+ItxZ7TiUT8=",
+              "directPath": "/v/t62.31111-24/30475863_504561898194761_5700483819202260689_n.enc?ccb=11-4&oh=01_AVwaFpOya4DZzWQF-TETv37x1faMX04bfbrUrPRZhIoXRg&oe=636BDEA7",
+              "syncType": "NON_BLOCKING_DATA"
+            }
+          }
+        },
+        "messageTimestamp": "1665675922",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "E6F804409E07D2EF6345F349030DCF7C"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "YU95TVDH0h9CSQbr+CswrjieXzvlh5YVD7/jJY/kFiw=",
+              "fileLength": "4912",
+              "mediaKey": "KmlaDNnQp+cIGG0RYDW/FW3AVtiEKTnHnW+Ek/dxUQM=",
+              "fileEncSha256": "gSF0Z2tbWKa4JhPbM1Wd45u4itkui/XVDcfygbtxJl8=",
+              "directPath": "/v/t62.31111-24/11857321_5484642428296474_4986430940780400035_n.enc?ccb=11-4&oh=01_AVx7DdeOU9FpKLh7tvRMCm8IZyDzncDQVjarqPAEDyCXcg&oe=636D3CD4",
+              "syncType": "PUSH_NAME",
+              "chunkOrder": 1
+            }
+          }
+        },
+        "messageTimestamp": "1665675922",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "60767847A937C914F3362EC3A2A3A079"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "pis69tQdSEOAfsMkSS+16Js9n7PUEIEWcXNNowv/dUs=",
+              "fileLength": "1210",
+              "mediaKey": "GKkbnRXble2bu+EQIxYylywcWJTKInEWwcjRHOSwOeg=",
+              "fileEncSha256": "Q/ZB5VamdCAFKqkrGo0FSyuCvZPobbTxk9G7MpDgZ9M=",
+              "directPath": "/v/t62.31111-24/33538416_798274364724243_4645236959274509919_n.enc?ccb=11-4&oh=01_AVytEYJILVJCXaHvG5YotYnwy89-MPhQb1VPmx_YB6TZbA&oe=636CAE56",
+              "syncType": "INITIAL_STATUS_V3"
+            }
+          }
+        },
+        "messageTimestamp": "1665675922",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "D0630CCF3E33BD2BE987E6C7279FCBA9"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "m7VpW7B+tRj7gKuYF7qAxtg5h+9C5C00LVTZQzp3RVU=",
+              "fileLength": "50240",
+              "mediaKey": "oOHZPrLBMJ3bZNAZ7PlgCwnHGxPA16fPMFgJeTvEktM=",
+              "fileEncSha256": "XG3i8Rkcuha5vDyKp+a4UehITUPOAwPc8FT3uJSUsmQ=",
+              "directPath": "/v/t62.31111-24/25074358_633102664941448_772367606222152077_n.enc?ccb=11-4&oh=01_AVwKjmm7OVgiKULGcpkjAfzGXL1ZoBBceeOKdRQe3E0ENQ&oe=636DA951",
+              "syncType": "INITIAL_BOOTSTRAP"
+            }
+          }
+        },
+        "messageTimestamp": "1665675922",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "85633B13D08CF4AEB01452688FAD0CA0"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "0lRwBPi16YJBsesUplg4m4gyGt873CO+qlbn8j2+wn4=",
+              "fileLength": "606124",
+              "mediaKey": "EPoDuUddJ0rf8FP30yUv+ynpNCTEBvRaiKHkH+Zzf+o=",
+              "fileEncSha256": "njZ2oBi0qx3k1oN67UGRCOzLwY7w3XIIn2FsXYAf+ac=",
+              "directPath": "/v/t62.31111-24/30974237_517785413501792_8650892575950793059_n.enc?ccb=11-4&oh=01_AVwo_xugR-tUib_J6PlrTeyDxNSbV0jui6GzI_Pizh9lTg&oe=636C5425",
+              "syncType": "RECENT",
+              "chunkOrder": 1,
+              "progress": 23
+            }
+          }
+        },
+        "messageTimestamp": "1665675961",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "D557BDFCFD94435A00FCE107F86433D3"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "FFFfB7Tezo/R6WrhVdsZCMv9FQaSD1ZJJQlHAkcueuk=",
+              "fileLength": "634589",
+              "mediaKey": "8V4zeQ2Cez+ImjLNKy0bA4H3/Wr7+QrwKEXk15uKurM=",
+              "fileEncSha256": "Qagatvx+IV5A+B/A3wfitVZWhgdC2KTiIMTS5+MBU7I=",
+              "directPath": "/v/t62.31111-24/55681789_1226325871251237_1522315665693944015_n.enc?ccb=11-4&oh=01_AVxskEOpBjw0ClZDVpyBU5ij4t51EpVfJMN3aCVhawMBaw&oe=636BD88F",
+              "syncType": "RECENT",
+              "chunkOrder": 2,
+              "progress": 46
+            }
+          }
+        },
+        "messageTimestamp": "1665675988",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "23F93E3CDDE984B7520D688A69F86AFF"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "4plF3ZCK6R3QaSauukDZz5SX3Q2vALsx3mT9koekLqA=",
+              "fileLength": "507979",
+              "mediaKey": "ctNsv+5GuIYIblE6Bxv4qvOqgt8rlQau54yT1+bFrr8=",
+              "fileEncSha256": "HPIbsTZCF4VPAsE+WgWgMyvDIXzs1paiE/gdoODxicU=",
+              "directPath": "/v/t62.31111-24/35819309_794629071765568_776186422943950046_n.enc?ccb=11-4&oh=01_AVxBonHWEbJrTmeC6uzKLMQbJXWoYTu58XczQBOyaw-iQA&oe=636D2698",
+              "syncType": "RECENT",
+              "chunkOrder": 3,
+              "progress": 69
+            }
+          }
+        },
+        "messageTimestamp": "1665676015",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "CC79682F1293D9AA7C8447B17D7C9794"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "oSPXfYRl3eaA7R34jJy5LlTMq4TVS2KpVbXNMQm2jpE=",
+              "fileLength": "1532832",
+              "mediaKey": "ttgbzjcBEIM7d1saKSl34x/zrQLGIbyLsoKM/BnCV6A=",
+              "fileEncSha256": "tQ+CmjAiz5JGEkHTO/VT1CKxM9XYVPrGMDIKMZvFcqE=",
+              "directPath": "/v/t62.31111-24/30979915_792027205246503_526001058542613121_n.enc?ccb=11-4&oh=01_AVyObRK9cQmwsrWUkT2shVgvWmQJsGZXm8LHOKWKtyl9Zg&oe=636EDAD0",
+              "syncType": "RECENT",
+              "chunkOrder": 4,
+              "progress": 92
+            }
+          }
+        },
+        "messageTimestamp": "1665676040",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "CEAF56BEA44A4B4E63E39BEA35393636"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "Yw5y9Mf2VWDzbiZa9GQuHz95TmJh6Dy9fEz3/CzxYCg=",
+              "fileLength": "14",
+              "mediaKey": "iSSCkd4zclYWKbuPwFT7Qnrr92Zh9vpIlML7FhjOwt8=",
+              "fileEncSha256": "DVl1YUUTs5av1osno9X6w1HuPAYvIVkoACOEVnpX9g0=",
+              "directPath": "/v/t62.31111-24/34948053_445585774128447_4659689211229699705_n.enc?ccb=11-4&oh=01_AVxVGqOb3sxPaLWTZtI8zE0SF28iZchW82GNy2Xr-mh7CA&oe=636F150E",
+              "syncType": "RECENT",
+              "chunkOrder": 6,
+              "progress": 100
+            }
+          }
+        },
+        "messageTimestamp": "1665676049",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      },
+      {
+        "key": {
+          "remoteJid": "62882006817995@s.whatsapp.net",
+          "fromMe": true,
+          "id": "A6DE40C1796CB26C0D8D3CD81616CBE4"
+        },
+        "message": {
+          "protocolMessage": {
+            "type": "HISTORY_SYNC_NOTIFICATION",
+            "historySyncNotification": {
+              "fileSha256": "sO7d8bakeKi2Wj7K4rTSqc6iMz53kTUf6Z1y9M3WooE=",
+              "fileLength": "249565",
+              "mediaKey": "XqxcHDwMOhNFGzY/N0SKr8nOUD5BSqGZFszxsDjGYOQ=",
+              "fileEncSha256": "TgQ1e0awHQkaZFoet6tOqqKypvYlz8ptFFwwPC1OY80=",
+              "directPath": "/v/t62.31111-24/30589346_1127438967866519_160493622127748373_n.enc?ccb=11-4&oh=01_AVyWhWMdKNVOyHQYyu52Myh-VpT-KWSsKEVbsMv81maW1A&oe=636F3BCC",
+              "syncType": "RECENT",
+              "chunkOrder": 5,
+              "progress": 100
+            }
+          }
+        },
+        "messageTimestamp": "1665676049",
+        "status": "SERVER_ACK",
+        "pushName": "Bot Update"
+      }
+    ],
+    "62895368900456@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "62895368900456@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE54457421A2DEE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1665675923",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "62895368900456@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE50405F54B9E51"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1665676335",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "62895368900456@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5271483DE5017"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1665677070",
+        "status": "DELIVERY_ACK"
+      }
+    ],
+    "6285645868974-1632284252@g.us": [
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "0722AB38D2A96C502E49C81BEA5F2706",
+          "participant": "6288290078095@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": "Haira mau pergi ke Malaysia bang 😭"
+        },
+        "messageTimestamp": "1665676590",
+        "pushName": "Inisial i",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665676591"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "D0198247B3919495CA5F86D55203E700",
+          "participant": "6285719806370@s.whatsapp.net"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AqjUNbLbIcFdB1m4f-MDR8PCLPQlQTYo46m-fYmF_kc4.enc",
+            "mimetype": "image/jpeg",
+            "caption": ".s",
+            "fileSha256": "soaJJE4ZqX2qVlqySs/OkrkR7pEF8CsqP1Zt+jnWNfU=",
+            "fileLength": "35252",
+            "height": 720,
+            "width": 720,
+            "mediaKey": "NFcGBNato07rmUqgvoGbG4vpg4BsPkW18V6Euip3ce0=",
+            "fileEncSha256": "vCh7YbhahiVxntcdjU2GdJGwyGJSA02yScMXfHikYJw=",
+            "directPath": "/v/t62.7118-24/20104386_626188602320768_1571355957793285410_n.enc?ccb=11-4&oh=01_AVxFU6UgzkXKtxHkVnb1XZr89j5S41NNW4eW0EyYhhHneg&oe=636C57E3",
+            "mediaKeyTimestamp": "1665676810",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgASAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAABAIDBQEGAQADAQAAAAAAAAAAAAAAAAABAgMA/9oADAMBAAIQAxAAAADcxtnLndTjxGuHdZlUjtCzK0XJAPpcjWxqyjyXYXXydqDIi+reywOAb0WHv4VJ1BTKthUzso1RayQOGPp/P7WI84LzVVn0B0ovoWQxrIAb0uCDogmBVyADWAHTA2//xAAmEAACAgEDBAICAwAAAAAAAAABAgADEQQSITEyQXEiMwUTFCNR/9oACAEBAAE/AH7ZrLzUy8Su2yzGFlyagA8QO6cdJ/IOMGad8ky45D+ppfqb3G7TNQFLDIlShFyIbR/omsdCOk3maGzOQZb2v6mk7G9x+0zVWqjqD5jJdsMqV8crNVQCkFLMcTSqUuxLe1/U0v1t7jdDNWpNtbDxBZczeMRr8QvvENPRh08yk7rXYRzlX9TS/W/uFyZq2Z2GPECtgeIQzdZu28RixRhmaXgtH7X9TS/W/uOo2ma2sll2xQyqMx7mEQMxyZ8QMnpK9g3EHzG7H9TTfU8btM/In5pKm/r5Myrk4iOiISTLLHsaacPuxDUQDngESqpURxvhDYM1NZZsMZZsSoqDkwA19fIlCG2zrx5hSnO1TEpSqvd5MS1ipU+JYybLAOCY44M12QRiWIwrUmPvYxVaunIHJlIO/JEOocuT4n7mz8RLTuAYjE//xAAdEQACAwEBAAMAAAAAAAAAAAAAAQIRMRAhEiJB/9oACAECAQE/AJYXTwX2VlUyWksPSMmlQ9RLeO75+j3nx0SSH6U3xcoSP//EAB0RAQADAAMAAwAAAAAAAAAAAAEAAhEQITESE0L/2gAIAQMBAT8ArsRTFitHNi/Kuyh1KvF6FnYGVZR643qek/Mp5Mn2eEbNodTQi87Fn//Z",
+            "scansSidecar": "ZdDH6IMSFQwbj2l/m9OwzvTaT1I=",
+            "scanLengths": [
+              8396,
+              26856
+            ]
+          }
+        },
+        "messageTimestamp": "1665676816",
+        "pushName": "ヅ"
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "16A9FC11D57E8D0BB4C19C8490E6E47E",
+          "participant": "6283140263803@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Boong",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "0722AB38D2A96C502E49C81BEA5F2706",
+              "participant": "6288290078095@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": "Haira mau pergi ke Malaysia bang 😭"
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1665677054",
+        "pushName": "Ast.",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677071"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "F399D6B663A44E3E1F9E4FDF964C4224",
+          "participant": "6288290078095@s.whatsapp.net"
+        },
+        "message": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/Au9vO3CgZmtcHBz58kmdoqG0p6R4QCHp4YBhBcIpKSGr.enc",
+            "mimetype": "image/jpeg",
+            "caption": "Tuh kakaknya langsung yang bilang",
+            "fileSha256": "Fazn0L2ZQAvQtLVeldH5lXJzDfc+q0fgjbqTzJpo6FI=",
+            "fileLength": "71988",
+            "height": 1280,
+            "width": 576,
+            "mediaKey": "IH5vd2l34jXXJJAFUNu+HYtnnVtIJgOH023/Aemz1b0=",
+            "fileEncSha256": "1/Sq+ldf4L2ozZlVCPrfk1bsAqDZLCdc+HfAbPM1xv0=",
+            "directPath": "/v/t62.7118-24/26453110_1170532736891736_6663657706432865741_n.enc?ccb=11-4&oh=01_AVy2xJhCoXXLSlT-ZBm1VWJ12d9GO8bKr0iLkw0h-kvXjA&oe=636F3B6F",
+            "mediaKeyTimestamp": "1665677084",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAAuAAEBAQEBAQAAAAAAAAAAAAAAAQIGAwQBAQEBAQAAAAAAAAAAAAAAAAABAgT/2gAMAwEAAhADEAAAAPmdNq8/MTqIW5Z6NM6JZVzqJkLqLJPUaPAT/8QAIxAAAgIABQQDAAAAAAAAAAAAAAECERASIVFSBBMiMTJCYf/aAAgBAQABPwDJLZjg70TFCWuhUuLMqv4I7a2idtbIcI8UNLlRlXMSr7PC1dFovG2OcvzGihvCht7D9FHkvSPLYk0tGyhKhk+nU5Rd+j//xAAYEQACAwAAAAAAAAAAAAAAAAAAIBESIf/aAAgBAgEBPwCSyav/xAAeEQABAgcBAAAAAAAAAAAAAAABABADERQgITFhYv/aAAgBAwEBPwAwOqn9WZafWIB2v//Z",
+            "contextInfo": {
+              "stanzaId": "16A9FC11D57E8D0BB4C19C8490E6E47E",
+              "participant": "6283140263803@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": "Boong"
+              }
+            },
+            "scansSidecar": "VaOtObezUQH/mg4G1PsArO4opU4rLwAj/4POwVkxoTc30Tfs4rXpJA==",
+            "scanLengths": [
+              6007,
+              32920,
+              13137,
+              19924
+            ],
+            "midQualityFileSha256": "tOz84Pilh9jpG7IE9Xw8XgrYKuvBcXX3a6iMmcuaaRM="
+          }
+        },
+        "messageTimestamp": "1665677087",
+        "pushName": "Inisial i",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677088"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "20A107C503622B2DDFE7EE3E53F8D15E",
+          "participant": "6283140263803@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Tranetan gogle",
+            "previewType": "NONE",
+            "contextInfo": {
+              "stanzaId": "F399D6B663A44E3E1F9E4FDF964C4224",
+              "participant": "6288290078095@s.whatsapp.net",
+              "quotedMessage": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/d/f/Au9vO3CgZmtcHBz58kmdoqG0p6R4QCHp4YBhBcIpKSGr.enc",
+                  "mimetype": "image/jpeg",
+                  "caption": "Tuh kakaknya langsung yang bilang",
+                  "fileSha256": "Fazn0L2ZQAvQtLVeldH5lXJzDfc+q0fgjbqTzJpo6FI=",
+                  "fileLength": "71988",
+                  "height": 1280,
+                  "width": 576,
+                  "mediaKey": "IH5vd2l34jXXJJAFUNu+HYtnnVtIJgOH023/Aemz1b0=",
+                  "fileEncSha256": "1/Sq+ldf4L2ozZlVCPrfk1bsAqDZLCdc+HfAbPM1xv0=",
+                  "directPath": "/v/t62.7118-24/26453110_1170532736891736_6663657706432865741_n.enc?ccb=11-4&oh=01_AVy2xJhCoXXLSlT-ZBm1VWJ12d9GO8bKr0iLkw0h-kvXjA&oe=636F3B6F",
+                  "mediaKeyTimestamp": "1665677084",
+                  "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIAMBIgACEQEDEQH/xAAuAAEBAQEBAQAAAAAAAAAAAAAAAQIGAwQBAQEBAQAAAAAAAAAAAAAAAAABAgT/2gAMAwEAAhADEAAAAPmdNq8/MTqIW5Z6NM6JZVzqJkLqLJPUaPAT/8QAIxAAAgIABQQDAAAAAAAAAAAAAAECERASIVFSBBMiMTJCYf/aAAgBAQABPwDJLZjg70TFCWuhUuLMqv4I7a2idtbIcI8UNLlRlXMSr7PC1dFovG2OcvzGihvCht7D9FHkvSPLYk0tGyhKhk+nU5Rd+j//xAAYEQACAwAAAAAAAAAAAAAAAAAAIBESIf/aAAgBAgEBPwCSyav/xAAeEQABAgcBAAAAAAAAAAAAAAABABADERQgITFhYv/aAAgBAwEBPwAwOqn9WZafWIB2v//Z",
+                  "scansSidecar": "VaOtObezUQH/mg4G1PsArO4opU4rLwAj/4POwVkxoTc30Tfs4rXpJA==",
+                  "scanLengths": [
+                    6007,
+                    32920,
+                    13137,
+                    19924
+                  ],
+                  "midQualityFileSha256": "tOz84Pilh9jpG7IE9Xw8XgrYKuvBcXX3a6iMmcuaaRM="
+                }
+              }
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1665677144",
+        "pushName": "Ast.",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677145"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "D88E8CE60716ACAF0F1E4F399B24E85A",
+          "participant": "6283140263803@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": "Translet"
+        },
+        "messageTimestamp": "1665677197",
+        "pushName": "Ast.",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677197"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "EB95EC9C5E75DBDD52F3DF5415803FA2",
+          "participant": "6281359053674@s.whatsapp.net"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/ApHVVviKD_CMIBWuwrv9Jsz9pew6p58qrcutNnJ6q0Md.enc",
+            "fileSha256": "CvS5yF5jv9IF98WPUUrdqujL+Rqna0Q3ioJLmXPCUj8=",
+            "fileEncSha256": "S5u3buZVypGOqhRiy1IBe9AgUV8gSzUX/oneWxItMTE=",
+            "mediaKey": "GmyNPQniDmc4nXwvoNhQFt8XE1HPIgyklFyS2U6gVJw=",
+            "mimetype": "image/webp",
+            "height": 64,
+            "width": 64,
+            "directPath": "/v/t62.15575-24/28737677_620207649832838_3303065821254209573_n.enc?ccb=11-4&oh=01_AVwEu16PswR--SJp8jz7eMEzH_8otxRPCrJNdbI4Xvt5OQ&oe=636EE7EA",
+            "fileLength": "30546",
+            "mediaKeyTimestamp": "1665497996",
+            "firstFrameLength": 5124,
+            "firstFrameSidecar": "MWUBxMgvwQxhRA==",
+            "isAnimated": true,
+            "stickerSentTs": "1665677517009"
+          }
+        },
+        "messageTimestamp": "1665677518",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "verifiedBizName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677519"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "1E58E2DE49F84A65E888979B7C05DFF8",
+          "participant": "6281359053674@s.whatsapp.net"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/ArFBrBpSUZr5qYDxIvXbD5diL_stUD_aKRPtBUYRDnic.enc",
+            "fileSha256": "DGEjKoXdK52qlAImaEgwKZAghEw/8ZSlvBxuY2z+Rhc=",
+            "fileEncSha256": "YDeBvqsDJjHOiQSAE8AFBtWgcY11vCMZKyQQ7hePm5Y=",
+            "mediaKey": "Zj+W7KMEPmRKVwYFWC9ggRvg/C7lyEnaJyoLRjXk24E=",
+            "mimetype": "image/webp",
+            "height": 64,
+            "width": 64,
+            "directPath": "/v/t62.15575-24/40897974_3336031819972641_8549327891681136893_n.enc?ccb=11-4&oh=01_AVxOS1UjlPoUEm0kEG8eCPFA4WY_ToNlyyX5-ZSu5_ftCw&oe=636C68A3",
+            "fileLength": "434148",
+            "mediaKeyTimestamp": "1665637210",
+            "firstFrameLength": 15724,
+            "firstFrameSidecar": "vwNZa768GWm6NA==",
+            "isAnimated": true,
+            "stickerSentTs": "1665677597200"
+          }
+        },
+        "messageTimestamp": "1665677598",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677598"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "3AEDD6318C0E25EFC20F97FBD3D22E6C",
+          "participant": "6281359053674@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1665677602",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677666"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": true,
+          "id": "BAE5234DD1262A4C",
+          "participant": "62882006817995@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                "description": "Sekarang Jam 23.13.24",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BOT WA"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677604",
+        "status": "PENDING",
+        "participant": "62882006817995:92@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281359053674@s.whatsapp.net",
+            "readTimestamp": "1665677605"
+          },
+          {
+            "userJid": "6287713434642@s.whatsapp.net",
+            "receiptTimestamp": "1665677770"
+          },
+          {
+            "userJid": "6289531843688@s.whatsapp.net",
+            "receiptTimestamp": "1665677999"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "17A6701A5960EEA12610BB74C8422B93",
+          "participant": "6281359053674@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? downloader",
+            "contextInfo": {
+              "stanzaId": "BAE5234DD1262A4C",
+              "participant": "62882006817995@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                  "description": "Sekarang Jam 23.13.24",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BOT WA"
+                }
+              },
+              "remoteJid": "6285645868974-1632284252@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1665677613",
+        "status": "PENDING",
+        "participant": "6281359053674@s.whatsapp.net",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677613"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": true,
+          "id": "BAE5ADA1BC8AAC9F"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6285645868974-1632284252@g.us",
+              "fromMe": true,
+              "id": "BAE5234DD1262A4C",
+              "participant": "62882006817995@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1665677665",
+        "status": "PENDING",
+        "participant": "62882006817995:92@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "628121839660@s.whatsapp.net",
+            "receiptTimestamp": "1665677678"
+          },
+          {
+            "userJid": "6285247201857@s.whatsapp.net",
+            "receiptTimestamp": "1665677716"
+          },
+          {
+            "userJid": "6287713434642@s.whatsapp.net",
+            "receiptTimestamp": "1665677770"
+          },
+          {
+            "userJid": "6289531843688@s.whatsapp.net",
+            "receiptTimestamp": "1665678000"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "3ECADAA8217D9BBAFDF8A7967E697EB9",
+          "participant": "6281359053674@s.whatsapp.net"
+        },
+        "message": {
+          "conversation": ".tiktok https://vt.tiktok.com/ZSRbxm1bK/"
+        },
+        "messageTimestamp": "1665677680",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677688"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": true,
+          "id": "BAE59E8C867EEB1B"
+        },
+        "message": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/ArK_Tyya5BvTWUimnGNdH17JKgTiSrv4SN3BgKfFOp8d.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "wwpxAJZ6EE+zLsJrwj/yimET3ZxDFLWinxWhTw4gVec=",
+            "fileLength": "2200764",
+            "mediaKey": "M7rlHI7S8ifrNnqKpnYONKRntwQgdRaA5lh9z2xTpDA=",
+            "caption": "\n\nBOT",
+            "fileEncSha256": "5Yke5WUUkaMRhdkZMqj1HTUByLkvXItlaBK0D9qqzyc=",
+            "directPath": "/v/t62.7161-24/23835580_1564632850632553_6606974420308422447_n.enc?ccb=11-4&oh=01_AVwKUgU81hU-W2GE7cqJtOyGTUSlidUlg0xMDI8pan6eaw&oe=636E5F82",
+            "mediaKeyTimestamp": "1665677721",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAgACAQIAAAD//gAQTGF2YzU5LjM3LjEwMAD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xACIAAACAwEBAQAAAAAAAAAAAAAFBgQCAwEABwEBAQEBAAAAAAAAAAAAAAAAAgEDABAAAQMDAgQDBAcJAQAAAAAAAQQCAwARBSESUUExBjIiE2EUNHEHkeFysXMkgcGDFWIWY/EzIxEBAAEDAgcBAQEAAAAAAAAAAQIRACEDYXFRQSKxEjGRBIH/wAARCAA5ACADASIAAhEAAxEA/9oADAMBAAIRAxEAPwD6WVycRzSmSURMBkkcBroPCONK6v6VO1VCqWOF2UBhdtla2LTThc/hTMVEDQWOa17SLWtp9VQ5oO3k7Xyvx6MWuSTDGSTw6ak1u6MzJg35WCcUpJrwxYSX6bOz8c0CUZJpcLAmC97c9KlZfv1BneyMwrSuUSRPRSRtZMyw6aEg1ZZicZImjUqEaVjplEA9P0GBrIi7w9OpHiqJ32gw+O7QzLkQenHuzh6TD/5Ov/SenstRjpT+yjUM4w06fbsplKCV3se7vNUOm39prGbupZO5jnbCGG4byvxPG1LzZJferugd12v2tOludaZGRiKD1xc7r6E2LPb/AKpP9LNI9Ou+1k0CNnsvmsgvQRfqpISB6gdGRt3A6aezlQNXLk8kllSrcsplhlbtezTUV7HzlQhEzpiY3w/8jq4m/i11roLbaD6wKLqTWXc55WiEQO0uuCcoaTCvUNkmDyC9gIY/he/HnS/3R3BItXTomsKcwkeZ3geDzbVs7knx5aJJEocwuYJXOhLb35C7tAONBVecxq9X7qt/Tnc5oUtBL93+QcxfmKzg6QiCc7fosfFkIO6MylhjijakeI27Wu2+a3t1rp7xzHRzIx8o/tpamXyIPJHL60we7a2K7g9t9NflRBNOtkaJZh1G8x28w06U+yinGy+xhub3JBlFblf8uxu8GMRicWDib3Owk8hS3/bHcT5mPegmfxBe0O+QO6m9b8HD/Gpab8WPvfvoyCtLsVp+2UxGAzqJORAgbHIDfziN+nBpdr860mx2bTByhQm2+ceHbbzfdqfF4mfltrx+Hb+afxroOP8ATzd1DJwv/9k=",
+            "contextInfo": {
+              "stanzaId": "3ECADAA8217D9BBAFDF8A7967E697EB9",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".tiktok https://vt.tiktok.com/ZSRbxm1bK/"
+              },
+              "remoteJid": "6285645868974-1632284252@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1665677721",
+        "status": "PENDING",
+        "participant": "62882006817995:92@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6287713434642@s.whatsapp.net",
+            "receiptTimestamp": "1665677771"
+          },
+          {
+            "userJid": "6283140263803@s.whatsapp.net",
+            "receiptTimestamp": "1665677884"
+          },
+          {
+            "userJid": "6285719806370@s.whatsapp.net",
+            "receiptTimestamp": "1665677889"
+          },
+          {
+            "userJid": "6289531843688@s.whatsapp.net",
+            "receiptTimestamp": "1665678000"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": false,
+          "id": "9B91E373382A00082CE187C671990E26",
+          "participant": "6285719806370@s.whatsapp.net"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".s",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "messageTimestamp": "1665677953",
+        "pushName": "ヅ",
+        "userReceipt": [
+          {
+            "userJid": "62882006817995@s.whatsapp.net",
+            "readTimestamp": "1665677973"
+          }
+        ]
+      },
+      {
+        "key": {
+          "remoteJid": "6285645868974-1632284252@g.us",
+          "fromMe": true,
+          "id": "BAE508B4F4D61488"
+        },
+        "message": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AlVOXLP1axDLdGUk3W3EOOYGsDqzrsMwBz7ZqsBlPlG8.enc",
+            "fileSha256": "zN/q28UOFcP6JTObbpv9PIIJhBB6xcjDX0+5cf0g448=",
+            "fileEncSha256": "5aMtUpY3lRdayyZ23Mu5zYLEzMYIFdfREQAJ0PBYtFU=",
+            "mediaKey": "5ac0HIqPq/vsEjDOOaaKyEnfH4W/Dr5ftU/51CFtRS4=",
+            "mimetype": "image/webp",
+            "directPath": "/v/t62.7118-24/30771096_109921078467948_5147077642948263513_n.enc?ccb=11-4&oh=01_AVxEi2Qq043516qAEYuu58kM8dfbzyvBbOptXLVVNfnagw&oe=636E5D95",
+            "fileLength": "13856",
+            "mediaKeyTimestamp": "1665677975",
+            "contextInfo": {
+              "stanzaId": "9B91E373382A00082CE187C671990E26",
+              "participant": "6285719806370@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": ".s",
+                  "previewType": "NONE",
+                  "inviteLinkGroupTypeV2": "DEFAULT"
+                }
+              },
+              "remoteJid": "6285645868974-1632284252@g.us"
+            }
+          }
+        },
+        "messageTimestamp": "1665677975",
+        "status": "PENDING",
+        "participant": "62882006817995:92@s.whatsapp.net",
+        "userReceipt": [
+          {
+            "userJid": "6281359053674@s.whatsapp.net",
+            "readTimestamp": "1665677980"
+          },
+          {
+            "userJid": "6285719806370@s.whatsapp.net",
+            "readTimestamp": "1665677989"
+          },
+          {
+            "userJid": "6289531843688@s.whatsapp.net",
+            "receiptTimestamp": "1665678000"
+          },
+          {
+            "userJid": "6288290078095@s.whatsapp.net",
+            "readTimestamp": "1665678345"
+          }
+        ]
+      }
+    ],
+    "6281359053674@s.whatsapp.net": [
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "751C2E6AE98CEE852A537020C1258784"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1665676716",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚",
+        "verifiedBizName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5DF9A3382AC12"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                "description": "Sekarang Jam 22.58.37",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BOT WA"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665676718",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "A5B3BD0017C3EA73710D479820DD771F"
+        },
+        "message": {
+          "conversation": ".owner"
+        },
+        "messageTimestamp": "1665676722",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "67828BB9E73D385E68BAD7DED7151FFE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? owner",
+            "contextInfo": {
+              "stanzaId": "BAE5DF9A3382AC12",
+              "participant": "62882006817995@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                  "description": "Sekarang Jam 22.58.37",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BOT WA"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665676737",
+        "status": "PENDING",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5473016E83C9C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Successfully connected"
+          }
+        },
+        "messageTimestamp": "1665677376",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "9637577AD3C33B2CF907C8ACF13DB6D3"
+        },
+        "message": {
+          "conversation": ".menu"
+        },
+        "messageTimestamp": "1665677386",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE564144CB64221",
+          "participant": "62882006817995@s.whatsapp.net"
+        },
+        "message": {
+          "viewOnceMessage": {
+            "message": {
+              "messageContextInfo": {
+                "deviceListMetadata": {},
+                "deviceListMetadataVersion": 2
+              },
+              "listMessage": {
+                "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                "description": "Sekarang Jam 23.09.47",
+                "buttonText": "Click",
+                "listType": "SINGLE_SELECT",
+                "sections": [
+                  {
+                    "title": "List Featured",
+                    "rows": [
+                      {
+                        "title": "All",
+                        "rowId": ".? all"
+                      },
+                      {
+                        "title": "Games",
+                        "rowId": ".? game"
+                      },
+                      {
+                        "title": "RPG Games",
+                        "rowId": ".? rpg"
+                      },
+                      {
+                        "title": "Exp & Limit",
+                        "rowId": ".? xp"
+                      },
+                      {
+                        "title": "Stickers",
+                        "rowId": ".? sticker"
+                      },
+                      {
+                        "title": "Kerang Ajaib",
+                        "rowId": ".? kerang"
+                      },
+                      {
+                        "title": "Primbon Jawa",
+                        "rowId": ".? primbon"
+                      },
+                      {
+                        "title": "Text Maker",
+                        "rowId": ".? textmaker"
+                      },
+                      {
+                        "title": "Image Maker",
+                        "rowId": ".? imagemaker"
+                      },
+                      {
+                        "title": "Groups",
+                        "rowId": ".? group"
+                      },
+                      {
+                        "title": "Premium",
+                        "rowId": ".? premium"
+                      },
+                      {
+                        "title": "Internet",
+                        "rowId": ".? internet"
+                      },
+                      {
+                        "title": "Anonymous Chat",
+                        "rowId": ".? anonymous"
+                      },
+                      {
+                        "title": "Downloader",
+                        "rowId": ".? downloader"
+                      },
+                      {
+                        "title": "Tools",
+                        "rowId": ".? tools"
+                      },
+                      {
+                        "title": "Wattpadz",
+                        "rowId": ".? wattpadz"
+                      },
+                      {
+                        "title": "Anime",
+                        "rowId": ".? anime"
+                      },
+                      {
+                        "title": "Audio",
+                        "rowId": ".? audio"
+                      },
+                      {
+                        "title": "Database",
+                        "rowId": ".? database"
+                      },
+                      {
+                        "title": "Owner",
+                        "rowId": ".? owner"
+                      },
+                      {
+                        "title": "Jadian",
+                        "rowId": ".? jadian"
+                      },
+                      {
+                        "title": "Tanpa Kategori",
+                        "rowId": ".? noktg"
+                      }
+                    ]
+                  }
+                ],
+                "footerText": "BOT WA"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677388",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "41AE532ED590F78428269FD870E6AAE6"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? all",
+            "contextInfo": {
+              "stanzaId": "BAE564144CB64221",
+              "participant": "62882006817995@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                  "description": "Sekarang Jam 23.09.47",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BOT WA"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677393",
+        "status": "PENDING",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "401B026AA41CB24AF068927FEC89C92C"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": ".? owner",
+            "contextInfo": {
+              "stanzaId": "BAE564144CB64221",
+              "participant": "62882006817995@s.whatsapp.net",
+              "quotedMessage": {
+                "listMessage": {
+                  "title": "```Selamat malam 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚```\n*Kamis - 13 Oktober 2022*\n",
+                  "description": "Sekarang Jam 23.09.47",
+                  "buttonText": "Click",
+                  "listType": "SINGLE_SELECT",
+                  "sections": [
+                    {
+                      "title": "List Featured",
+                      "rows": [
+                        {
+                          "title": "All",
+                          "rowId": ".? all"
+                        },
+                        {
+                          "title": "Games",
+                          "rowId": ".? game"
+                        },
+                        {
+                          "title": "RPG Games",
+                          "rowId": ".? rpg"
+                        },
+                        {
+                          "title": "Exp & Limit",
+                          "rowId": ".? xp"
+                        },
+                        {
+                          "title": "Stickers",
+                          "rowId": ".? sticker"
+                        },
+                        {
+                          "title": "Kerang Ajaib",
+                          "rowId": ".? kerang"
+                        },
+                        {
+                          "title": "Primbon Jawa",
+                          "rowId": ".? primbon"
+                        },
+                        {
+                          "title": "Text Maker",
+                          "rowId": ".? textmaker"
+                        },
+                        {
+                          "title": "Image Maker",
+                          "rowId": ".? imagemaker"
+                        },
+                        {
+                          "title": "Groups",
+                          "rowId": ".? group"
+                        },
+                        {
+                          "title": "Premium",
+                          "rowId": ".? premium"
+                        },
+                        {
+                          "title": "Internet",
+                          "rowId": ".? internet"
+                        },
+                        {
+                          "title": "Anonymous Chat",
+                          "rowId": ".? anonymous"
+                        },
+                        {
+                          "title": "Downloader",
+                          "rowId": ".? downloader"
+                        },
+                        {
+                          "title": "Tools",
+                          "rowId": ".? tools"
+                        },
+                        {
+                          "title": "Wattpadz",
+                          "rowId": ".? wattpadz"
+                        },
+                        {
+                          "title": "Anime",
+                          "rowId": ".? anime"
+                        },
+                        {
+                          "title": "Audio",
+                          "rowId": ".? audio"
+                        },
+                        {
+                          "title": "Database",
+                          "rowId": ".? database"
+                        },
+                        {
+                          "title": "Owner",
+                          "rowId": ".? owner"
+                        },
+                        {
+                          "title": "Jadian",
+                          "rowId": ".? jadian"
+                        },
+                        {
+                          "title": "Tanpa Kategori",
+                          "rowId": ".? noktg"
+                        }
+                      ]
+                    }
+                  ],
+                  "footerText": "BOT WA"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677420",
+        "status": "PENDING",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "B13155077F4B8B2D9D094A5D7248F776"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "/owner"
+          }
+        },
+        "messageTimestamp": "1665677426",
+        "status": "PENDING",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5669555B310F8"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚 telah naik level!\n• 🧬Level Sebelumnya : 0\n• 🧬Level Baru : 1\n• 🧬Role Kamu : Warrior V\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "B13155077F4B8B2D9D094A5D7248F776",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/owner"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677426",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE512448848602D"
+        },
+        "message": {
+          "contactMessage": {
+            "displayName": "RGA",
+            "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;RGA;;;\nFN:RGA\nTEL;type=CELL;type=VOICE;waid=6281359053674:+62 813-5905-3674X-WA-BIZ-NAME:𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚\nX-WA-BIZ-DESCRIPTION:Jasa joki murah, cepat ,dan terpercaya\\nMelayani semua permintaan\nEND:VCARD",
+            "contextInfo": {
+              "stanzaId": "B13155077F4B8B2D9D094A5D7248F776",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "extendedTextMessage": {
+                  "text": "/owner"
+                }
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677427",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5674F46ACA4F4"
+        },
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "6281359053674@s.whatsapp.net",
+              "fromMe": true,
+              "id": "BAE564144CB64221",
+              "participant": "62882006817995@s.whatsapp.net"
+            },
+            "type": "REVOKE"
+          }
+        },
+        "messageTimestamp": "1665677448",
+        "status": "DELIVERY_ACK"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "DD9F9DE6769855107401B9BD739E38B2"
+        },
+        "message": {
+          "conversation": ".resetkabeh"
+        },
+        "messageTimestamp": "1665677467",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE56B5DD5BE0278"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "done",
+            "contextInfo": {
+              "stanzaId": "DD9F9DE6769855107401B9BD739E38B2",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".resetkabeh"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677468",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "D364295675560BC2132C56CE7BE4C18C"
+        },
+        "message": {
+          "conversation": ".enable public"
+        },
+        "messageTimestamp": "1665677534",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE56754E6279BDE"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "public telah diaktifkan pada bot ini.",
+            "contextInfo": {
+              "stanzaId": "D364295675560BC2132C56CE7BE4C18C",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".enable public"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677535",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE59791D3E2C095"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selamat, 𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚 telah naik level!\n• 🧬Level Sebelumnya : 1\n• 🧬Level Baru : 6\n• 🧬Role Kamu : Warrior IV\ngunakan *.inventory* untuk mengecek",
+            "contextInfo": {
+              "stanzaId": "D364295675560BC2132C56CE7BE4C18C",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".enable public"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677535",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "24B3CAF0FA116ECA5C62796E246F849D"
+        },
+        "message": {
+          "conversation": ".bcgc bot on in termux"
+        },
+        "messageTimestamp": "1665677564",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE5475482CA7358"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "_Mengirim pesan broadcast ke 1 grup_",
+            "contextInfo": {
+              "stanzaId": "24B3CAF0FA116ECA5C62796E246F849D",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".bcgc bot on in termux"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677564",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE54B7EA4CFA17F"
+        },
+        "message": {
+          "extendedTextMessage": {
+            "text": "Selesai Broadcast All Group :)",
+            "contextInfo": {
+              "stanzaId": "24B3CAF0FA116ECA5C62796E246F849D",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".bcgc bot on in termux"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677576",
+        "status": "READ"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": false,
+          "id": "2F73102032D30A9744CD5C8EE3FE92CB"
+        },
+        "message": {
+          "conversation": ".tiktok https://vt.tiktok.com/ZSRbxm1bK/"
+        },
+        "messageTimestamp": "1665677805",
+        "pushName": "𝕂𝕚𝕜𝕚 𝔽𝕦𝕛𝕚"
+      },
+      {
+        "key": {
+          "remoteJid": "6281359053674@s.whatsapp.net",
+          "fromMe": true,
+          "id": "BAE50573164197E0"
+        },
+        "message": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/d/f/AmoF9shlYztS1-cJ0DyDMejzISfdmuBADjz8CYwF-Qxp.enc",
+            "mimetype": "application/octet-stream",
+            "fileSha256": "wwpxAJZ6EE+zLsJrwj/yimET3ZxDFLWinxWhTw4gVec=",
+            "fileLength": "2200764",
+            "mediaKey": "ptmct+19ujFq/pgyRChVb/lhIeq/9+iANk3cMkCtWgc=",
+            "caption": "\n\nBOT",
+            "fileEncSha256": "PJS+hoydljI5LJOjZKd0XhVQYO0wD+JTkNKImkznxxc=",
+            "directPath": "/v/t62.7161-24/35087513_130192279798683_6282778493130748707_n.enc?ccb=11-4&oh=01_AVwHQALjNMFSo87dR7oWXHr-_3SPoiyj26pAQizilDj47g&oe=636D61BA",
+            "mediaKeyTimestamp": "1665677821",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAgACAQIAAAD//gAQTGF2YzU5LjM3LjEwMAD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xACIAAACAwEBAQAAAAAAAAAAAAAFBgQCAwEABwEBAQEBAAAAAAAAAAAAAAAAAgEDABAAAQMDAgQDBAcJAQAAAAAAAQQCAwARBSESUUExBjIiE2EUNHEHkeFysXMkgcGDFWIWY/EzIxEBAAEDAgcBAQEAAAAAAAAAAQIRACEDYXFRQSKxEjGRBIH/wAARCAA5ACADASIAAhEAAxEA/9oADAMBAAIRAxEAPwD6WVycRzSmSURMBkkcBroPCONK6v6VO1VCqWOF2UBhdtla2LTThc/hTMVEDQWOa17SLWtp9VQ5oO3k7Xyvx6MWuSTDGSTw6ak1u6MzJg35WCcUpJrwxYSX6bOz8c0CUZJpcLAmC97c9KlZfv1BneyMwrSuUSRPRSRtZMyw6aEg1ZZicZImjUqEaVjplEA9P0GBrIi7w9OpHiqJ32gw+O7QzLkQenHuzh6TD/5Ov/SenstRjpT+yjUM4w06fbsplKCV3se7vNUOm39prGbupZO5jnbCGG4byvxPG1LzZJferugd12v2tOludaZGRiKD1xc7r6E2LPb/AKpP9LNI9Ou+1k0CNnsvmsgvQRfqpISB6gdGRt3A6aezlQNXLk8kllSrcsplhlbtezTUV7HzlQhEzpiY3w/8jq4m/i11roLbaD6wKLqTWXc55WiEQO0uuCcoaTCvUNkmDyC9gIY/he/HnS/3R3BItXTomsKcwkeZ3geDzbVs7knx5aJJEocwuYJXOhLb35C7tAONBVecxq9X7qt/Tnc5oUtBL93+QcxfmKzg6QiCc7fosfFkIO6MylhjijakeI27Wu2+a3t1rp7xzHRzIx8o/tpamXyIPJHL60we7a2K7g9t9NflRBNOtkaJZh1G8x28w06U+yinGy+xhub3JBlFblf8uxu8GMRicWDib3Owk8hS3/bHcT5mPegmfxBe0O+QO6m9b8HD/Gpab8WPvfvoyCtLsVp+2UxGAzqJORAgbHIDfziN+nBpdr860mx2bTByhQm2+ceHbbzfdqfF4mfltrx+Hb+afxroOP8ATzd1DJwv/9k=",
+            "contextInfo": {
+              "stanzaId": "2F73102032D30A9744CD5C8EE3FE92CB",
+              "participant": "6281359053674@s.whatsapp.net",
+              "quotedMessage": {
+                "conversation": ".tiktok https://vt.tiktok.com/ZSRbxm1bK/"
+              }
+            }
+          }
+        },
+        "messageTimestamp": "1665677821",
+        "status": "DELIVERY_ACK"
+      }
+    ],
+    "120363042793317802@g.us": [],
+    "6287819462739@s.whatsapp.net": []
+  }
+}
