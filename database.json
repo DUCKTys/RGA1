@@ -56508,7 +56508,7 @@
       "roboxp": 0
     },
     "62882006817995@s.whatsapp.net": {
-      "exp": 10000,
+      "exp": 10004,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -56876,7 +56876,7 @@
       "kyubilastfeed": 0
     },
     "6281359053674@s.whatsapp.net": {
-      "exp": 10178,
+      "exp": 10205,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -58515,10 +58515,10 @@
       "totalhits": 2
     },
     "menu.cjs": {
-      "total": 114,
-      "success": 105,
-      "last": 1665677666318,
-      "lastSuccess": 1665677666318
+      "total": 115,
+      "success": 106,
+      "last": 1665684684510,
+      "lastSuccess": 1665684684510
     },
     "rpg-leaderboard.cjs": {
       "total": 27,
